@@ -150,27 +150,6 @@
   },
   {
     "Author": "NightmareXIV",
-    "Name": "Splatoon",
-    "Punchline": "Splatoon plugin is an accessibility tool for Final Fantasy XIV. ",
-    "Description": "Splatoon plugin is an accessibility tool for Final Fantasy XIV. It provides a custom waymark system and allows to create infinite grouped waymarks, labels and actor indicators with pixel precision, enabling player to see important objects and events easier and react to them faster. Plugin does not comes with any preconfigured presets, you are required to either make them or import them. ",
-    "Tags": ["Utility", "Accessibility"],
-    "InternalName": "Splatoon",
-    "AssemblyVersion": "3.3.0.0",
-    "RepoUrl": "https://github.com/NightmareXIV/Splatoon",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 8,
-    "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/Splatoon/icon.png",
-    "ImageUrls": [],
-    "DownloadLinkInstall": "https://love.puni.sh/plugins/Splatoon/latest.zip",
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://love.puni.sh/plugins/Splatoon/latest.zip",
-    "DownloadLinkUpdate": "https://love.puni.sh/plugins/Splatoon/latest.zip",
-    "DownloadCount": 1000,
-    "LastUpdated": "0"
-  },
-  {
-    "Author": "NightmareXIV",
     "Name": "AntiAfkKick",
     "Punchline": "A Dalamud plugin for preventing being auto-kicked from FFXIV due to inactivity. Install and forget, no config needed.",
     "Description": "",
@@ -188,30 +167,6 @@
     "DownloadLinkUpdate": "https://github.com/NightmareXIV/AntiAfkKick/releases/latest/download/AntiAfkKick-Dalamud.zip",
     "DownloadCount": 0,
     "LastUpdated": "0"
-  },
-  {
-    "Author": "кайт машина (Puni.sh)",
-    "Name": "Palace Pal",
-    "Punchline": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.",
-    "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.",
-    "Tags": [
-      "potd",
-      "palace",
-      "hoh",
-      "splatoon"
-    ],
-    "InternalName": "Palace Pal",
-    "AssemblyVersion": "4.8.0.2",
-    "RepoUrl": "https://github.com/PunishXIV/PalacePal",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 8,
-    "DownloadCount": 7311,
-    "LastUpdate": 1683838662,
-    "DownloadLinkInstall": "https://love.puni.sh/plugins/PalacePal/latest.zip",
-    "DownloadLinkUpdate": "https://love.puni.sh/plugins/PalacePal/latest.zip",
-    "DownloadLinkTesting": "https://love.puni.sh/plugins/PalacePal/latest.zip",
-    "IconUrl": "https://love.puni.sh/resources/palacepal.png",
-    "AcceptsFeedback": true
   },
   {
     "Author": "Jukka",
