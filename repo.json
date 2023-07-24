@@ -188,6 +188,62 @@
     "DownloadLinkUpdate": "https://github.com/NightmareXIV/AntiAfkKick/releases/latest/download/AntiAfkKick-Dalamud.zip",
     "DownloadCount": 0,
     "LastUpdated": "0"
+  },
+  {
+    "Author": "кайт машина (Puni.sh)",
+    "Name": "Palace Pal",
+    "Punchline": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.",
+    "Description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.",
+    "Tags": [
+      "potd",
+      "palace",
+      "hoh",
+      "splatoon"
+    ],
+    "InternalName": "Palace Pal",
+    "AssemblyVersion": "4.8.0.2",
+    "RepoUrl": "https://github.com/PunishXIV/PalacePal",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 8,
+    "DownloadCount": 7311,
+    "LastUpdate": 1683838662,
+    "DownloadLinkInstall": "https://love.puni.sh/plugins/PalacePal/latest.zip",
+    "DownloadLinkUpdate": "https://love.puni.sh/plugins/PalacePal/latest.zip",
+    "DownloadLinkTesting": "https://love.puni.sh/plugins/PalacePal/latest.zip",
+    "IconUrl": "https://love.puni.sh/resources/palacepal.png",
+    "AcceptsFeedback": true
+  },
+  {
+    "Author": "Jukka",
+    "Name": "NecroLens",
+    "Punchline": "A true Necromancer always know the DeepDungeon ... everyone else just uses a high tech!",
+    "Description": "DeepDungeon Helper. Radar for Mobs, Aggro, Sight and everything else.",
+    "Changelog": "v1.0.3.4 updated for 6.45",
+    "InternalName": "NecroLens",
+    "AssemblyVersion": "1.0.3.4",
+    "RepoUrl": "https://github.com/Jukkales/NecroLens",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "potd",
+      "hoh",
+      "eo",
+      "esp",
+      "radar",
+      "sonar",
+      "deep",
+      "dungeon"
+    ],
+    "DalamudApiLevel": 8,
+    "IconUrl": "https://github.com/Jukkales/NecroLens/raw/main/icon.png",
+    "ImageUrls": [
+    ],
+    "DownloadLinkInstall": "https://github.com/Jukkales/NecroLens/releases/latest/download/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/Jukkales/NecroLens/releases/download/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Jukkales/NecroLens/releases/download/download/latest.zip",
+    "DownloadCount": 2545,
+    "LastUpdate": "1689672467"
   }
 ]
 
