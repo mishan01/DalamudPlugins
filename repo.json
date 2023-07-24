@@ -199,6 +199,25 @@
     "DownloadLinkUpdate": "https://github.com/Jukkales/NecroLens/releases/download/download/latest.zip",
     "DownloadCount": 2545,
     "LastUpdate": "1689672467"
+  },
+  {
+    "Author": "Chalkos",
+    "Name": "Marketbuddy",
+    "Punchline": "Less clicks, more gil!",
+    "Description": "Helper for your day-to-day market operations.",
+    "InternalName": "Marketbuddy",
+    "AssemblyVersion": "0.2.2.16",
+    "RepoUrl": "https://github.com/chalkos/Marketbuddy",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 8,
+    "DownloadLinkInstall": "https://github.com/chalkos/Marketbuddy/raw/main/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/chalkos/Marketbuddy/raw/main/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/chalkos/Marketbuddy/raw/main/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdated": "1632449669",
+    "Changelog": "- update sigs for 6.4 (thanks Limiana)"
   }
 ]
 
