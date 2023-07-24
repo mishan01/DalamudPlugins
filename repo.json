@@ -147,6 +147,77 @@
       "mobhunt"
     ],
     "TestingAssemblyVersion": "0.1.0.1352"
+  },
+  {
+    "Author": "NightmareXIV",
+    "Name": "AntiAfkKick",
+    "Punchline": "A Dalamud plugin for preventing being auto-kicked from FFXIV due to inactivity. Install and forget, no config needed.",
+    "Description": "",
+    "InternalName": "AntiAfkKick-Dalamud",
+    "AssemblyVersion": "2.1.0.3",
+    "RepoUrl": "https://github.com/NightmareXIV/AntiAfkKick",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 8,
+    "IconUrl": "",
+    "ImageUrls": [],
+    "DownloadLinkInstall": "https://github.com/NightmareXIV/AntiAfkKick/releases/latest/download/AntiAfkKick-Dalamud.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/NightmareXIV/AntiAfkKick/releases/latest/download/AntiAfkKick-Dalamud.zip",
+    "DownloadLinkUpdate": "https://github.com/NightmareXIV/AntiAfkKick/releases/latest/download/AntiAfkKick-Dalamud.zip",
+    "DownloadCount": 0,
+    "LastUpdated": "0"
+  },
+  {
+    "Author": "Chalkos",
+    "Name": "Marketbuddy",
+    "Punchline": "Less clicks, more gil!",
+    "Description": "Helper for your day-to-day market operations.",
+    "InternalName": "Marketbuddy",
+    "AssemblyVersion": "0.2.2.16",
+    "RepoUrl": "https://github.com/chalkos/Marketbuddy",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 8,
+    "DownloadLinkInstall": "https://github.com/chalkos/Marketbuddy/raw/main/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/chalkos/Marketbuddy/raw/main/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/chalkos/Marketbuddy/raw/main/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdated": "1632449669",
+    "Changelog": "- update sigs for 6.4 (thanks Limiana)"
+  },
+  {
+    "Author": "Jukka",
+    "Name": "NecroLens",
+    "Punchline": "A true Necromancer always know the DeepDungeon ... everyone else just uses a high tech!",
+    "Description": "DeepDungeon Helper. Radar for Mobs, Aggro, Sight and everything else.",
+    "Changelog": "v1.0.3.4 updated for 6.45",
+    "InternalName": "NecroLens",
+    "AssemblyVersion": "1.0.3.4",
+    "RepoUrl": "https://github.com/Jukkales/NecroLens",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "potd",
+      "hoh",
+      "eo",
+      "esp",
+      "radar",
+      "sonar",
+      "deep",
+      "dungeon"
+    ],
+    "DalamudApiLevel": 8,
+    "IconUrl": "https://github.com/Jukkales/NecroLens/raw/main/icon.png",
+    "ImageUrls": [
+    ],
+    "DownloadLinkInstall": "https://github.com/Jukkales/NecroLens/releases/latest/download/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/Jukkales/NecroLens/releases/download/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Jukkales/NecroLens/releases/download/download/latest.zip",
+    "DownloadCount": 2545,
+    "LastUpdate": "1689672467"
   }
 ]
 
