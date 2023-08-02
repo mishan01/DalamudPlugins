@@ -1,27 +1,5 @@
 [
   {
-    "Author": "Ottermandias, Adam, Wintermute",
-    "Name": "Penumbra",
-    "Description": "Runtime mod loader and manager.",
-    "InternalName": "Penumbra",
-    "AssemblyVersion": "0.7.2.2",
-    "TestingAssemblyVersion": "0.7.2.3",
-    "RepoUrl": "https://github.com/xivdev/Penumbra",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 8,
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "DownloadCount": 0,
-    "LastUpdate": 0,
-    "LoadPriority": 69420,
-    "LoadRequiredState": 2,
-    "LoadSync": true,
-    "DownloadLinkInstall": "https://github.com/xivdev/Penumbra/releases/download/0.7.2.2/Penumbra.zip",
-    "DownloadLinkTesting": "https://github.com/xivdev/Penumbra/releases/download/testing_0.7.2.3/Penumbra.zip",
-    "DownloadLinkUpdate": "https://github.com/xivdev/Penumbra/releases/download/0.7.2.2/Penumbra.zip",
-    "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png"
-  },
-  {
     "Author": "Bluefissure",
     "Name": "Inviter",
     "InternalName": "Inviter",
@@ -199,25 +177,6 @@
     "DownloadLinkUpdate": "https://github.com/Jukkales/NecroLens/releases/download/download/latest.zip",
     "DownloadCount": 2545,
     "LastUpdate": "1689672467"
-  },
-  {
-    "Author": "Chalkos",
-    "Name": "Marketbuddy",
-    "Punchline": "Less clicks, more gil!",
-    "Description": "Helper for your day-to-day market operations.",
-    "InternalName": "Marketbuddy",
-    "AssemblyVersion": "0.2.2.16",
-    "RepoUrl": "https://github.com/chalkos/Marketbuddy",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 8,
-    "DownloadLinkInstall": "https://github.com/chalkos/Marketbuddy/raw/main/latest.zip",
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/chalkos/Marketbuddy/raw/main/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/chalkos/Marketbuddy/raw/main/latest.zip",
-    "DownloadCount": 0,
-    "LastUpdated": "1632449669",
-    "Changelog": "- update sigs for 6.4 (thanks Limiana)"
   }
 ]
 
