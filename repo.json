@@ -23,22 +23,6 @@
     "DownloadLinkUpdate": "https://github.com/Bluefissure/DalamudPlugins/raw/Bluefissure/plugins/Inviter/latest.zip"
   },
   {
-    "Author": "ascclemens",
-    "Name": "Mastercraft",
-    "Description": "Mastercraft will handle your tedious crafting for you. Import rotations with\nspecific food and pot, then queue up all the crafts you need. Mastercraft\nautomatically refreshes food and pots as necessary, and it crafts faster than\na macro ever could!\n\n- Pauseable queue system for crafts\n- Byregot's protection on specialists with delineations (optional)\n- Skip quality actions when quality is already maxed (optional)\n- Macro importer\n- Pre-queue sanity checks (have stats, have gearset, have food, etc.)\n- Fastest possible crafting time\n- View all crafter gearset stats on one screen\n- Automatically switch job, use food/pot, start craft\n- Can use your computer (and to a lesser degree your game) while it runs",
-    "InternalName": "Mastercraft",
-    "AssemblyVersion": "1.1.7.0",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 8,
-    "Punchline": "Queue up crafts! Set and forget!",
-    "DownloadLinkInstall": "https://git.anna.lgbt/ascclemens/plugin_repo/raw/branch/main/unofficial/Mastercraft/latest.zip",
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://git.anna.lgbt/ascclemens/plugin_repo/raw/branch/main/unofficial/Mastercraft/latest.zip",
-    "DownloadLinkUpdate": "https://git.anna.lgbt/ascclemens/plugin_repo/raw/branch/main/unofficial/Mastercraft/latest.zip",
-    "LastUpdate": "1685034820"
-  },
-  {
     "Author": "Asteria Nocturna",
     "Name": "Divination.AetheryteLinkInChat",
     "Punchline": "Quick teleport for Mob Hunting",
